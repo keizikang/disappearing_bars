@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/49269927/missing-bars-in-matplotlib-bar-chart
+https://github.com/matplotlib/matplotlib/issues/8808
+https://stackoverflow.com/questions/47740478/matplotlib-bar-chart-some-bars-are-not-visible-and-seem-to-be-of-different-widt
+https://stackoverflow.com/questions/56170270/matplotlib-pyplot-bar-seems-to-produce-incorrect-results
+
