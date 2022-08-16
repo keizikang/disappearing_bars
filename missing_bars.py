@@ -34,13 +34,10 @@ plt.show()
 
 # bar width를 다양하게 바꿔가며 테스트
 # colab과 vscode에서 그래프가 다르게 나올 수 있음
-x = range(100)
-y = range(100)
-
 fig, ax = plt.subplots(1, 4, figsize=(15, 5))
 widths = [.1, .2, .3, .4]
 for i, w in enumerate(widths):
-    ax[i].bar(x, y, width=w)
+    ax[i].bar(range(100), range(100), width=w)
 plt.show()
 
 
