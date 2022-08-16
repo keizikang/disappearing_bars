@@ -6,4 +6,4 @@
 
 * 해결책: bar()의 파라미터 중 width를 조절하며, 필요에 따라 figsize, edgecolor를 설정하거나 Figure 창의 크기를 조절
 
-* 자세한 설명은 제 [블로그](https://lazymatlab.tistory.com/144)에서 확인하실 수 있습니다.
+* 자세한 설명은 제 [블로그](https://lazymatlab.tistory.com/144){:target="_blank"}에서 확인하실 수 있습니다.
